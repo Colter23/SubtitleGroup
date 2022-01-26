@@ -1,0 +1,24 @@
+{
+    "data": [
+        {
+            "organization": "ViViD",
+            "homeLink": "/vivid",
+            "homeText": "ViViD首页",
+            "avatar": "https://img.colter.top/vivid/img/bell/btnbg02.png!web",
+            "group": [
+                {
+                    "name": "猫芒Bell",
+                    "link": "/bell",
+                    "avatar": "https://img.colter.top/vivid/img/bell/btnbg02.png!web",
+                    "qqGroup": 3333333333
+                },
+                {
+                    "name": "白百合Lily",
+                    "link": "/lily",
+                    "avatar": "https://img.colter.top/vivid/img/bell/btnbg02.png!web",
+                    "qqGroup": 3333333333
+                }
+            ]
+        }
+    ]
+}

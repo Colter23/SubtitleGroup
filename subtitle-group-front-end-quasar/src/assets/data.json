@@ -1,0 +1,167 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "creator": 3375582524,
+            "pertain": "/vivid/bell",
+            "cutName": {
+                "value": "【20220101 B限 新年新衣服】",
+                "lock": false
+            },
+            "title": {
+                "value": "【新年快乐】新年新气象 bell新衣服！",
+                "lock": false
+            },
+            "remark": {
+                "value": "",
+                "lock": false
+            },
+            "origin": {
+                "oid": 0,
+                "originLink": "https://www.bilibili.com/video/BV1fm4y1Q71f",
+                "downloadLink": "https://www.bilibili.com/video/BV1fm4y1Q71f",
+                "title": "",
+                "type": 0,
+                "producer": 0,
+                "lock": false
+            },
+            "duration": {
+                "value": 55,
+                "lock": false
+            },
+            "state": 0,
+            "link": "https://www.bilibili.com/video/BV1uu411D7nJ",
+            "row": 3,
+            "createTime": "",
+            "finishTime": "",
+            "publishTime": "",
+            "slivers": [
+                [0, 20],
+                [20, 40],
+                [40, 55]
+            ],
+            "timeline": [
+                {
+                    "row": 1,
+                    "state": 1,
+                    "link": "",
+                    "receiveTime": "",
+                    "finishTime": "",
+                    "producer": 111111111,
+                    "lock": false
+                },
+                {
+                    "row": 2,
+                    "state": 0,
+                    "link": "",
+                    "receiveTime": "",
+                    "finishTime": "",
+                    "producer": 0,
+                    "lock": false
+                }
+            ],
+            "translator": [
+                {
+                    "row": 1,
+                    "state": 0,
+                    "link": "",
+                    "receiveTime": "",
+                    "finishTime": "",
+                    "producer": 0,
+                    "lock": false
+                },
+                {
+                    "row": 1,
+                    "state": 0,
+                    "link": "",
+                    "receiveTime": "",
+                    "finishTime": "",
+                    "producer": 0,
+                    "lock": false
+                },
+                {
+                    "row": 1,
+                    "state": 0,
+                    "link": "",
+                    "receiveTime": "",
+                    "finishTime": "",
+                    "producer": 0,
+                    "lock": false
+                }
+            ],
+            "proofreader": [
+                {
+                    "row": 3,
+                    "state": 0,
+                    "link": "",
+                    "receiveTime": "",
+                    "finishTime": "",
+                    "producer": 0,
+                    "lock": false
+                }
+            ],
+            "cut": {
+                "state": 1,
+                "link": "",
+                "receiveTime": "",
+                "finishTime": "",
+                "producer": [
+                    111111111
+                ],
+                "lock": false
+            },
+            "afterEffect": {
+                "state": 0,
+                "link": "",
+                "receiveTime": "",
+                "finishTime": "",
+                "producer": [
+
+                ],
+                "lock": false
+            },
+            "cover": {
+                "state": 0,
+                "link": "",
+                "receiveTime": "",
+                "finishTime": "",
+                "producer": [
+
+                ],
+                "lock": false
+            },
+            "compaction": {
+                "state": 0,
+                "link": "",
+                "receiveTime": "",
+                "finishTime": "",
+                "producer": [
+
+                ],
+                "lock": false
+            },
+            "artist": {
+                "state": 0,
+                "link": "",
+                "receiveTime": "",
+                "finishTime": "",
+                "producer": [
+
+                ],
+                "lock": false
+            },
+            "secondaryProofreader": [
+                {
+                    "row": 3,
+                    "state": 0,
+                    "link": "",
+                    "receiveTime": "",
+                    "finishTime": "",
+                    "producer": 0,
+                    "lock": false
+                }
+            ]
+        }
+
+    ]
+}

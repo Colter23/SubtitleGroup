@@ -1,0 +1,7 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb://127.0.0.1:27017/subtitle
+server:
+  port: 8081
+  max-http-header-size: 8192
